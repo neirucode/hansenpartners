@@ -1489,6 +1489,7 @@ body {
 .footer-banner {
     width: 100%;
     height: auto;
+    mix-blend-mode: multiply;
 }
 
 .footer-container {
